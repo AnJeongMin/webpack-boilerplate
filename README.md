@@ -1,1 +1,1 @@
-# webpack-boilerplate
+express, typescript, webpack boilerplate
